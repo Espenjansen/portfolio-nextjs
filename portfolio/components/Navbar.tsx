@@ -19,7 +19,7 @@ const Navbar = () => {
                 <Image src="/../public/img/E.png"
                 alt="/" 
                 width="100"  
-                height="50"
+                height="40"
                 />
                 <div>
                     <ul className='hidden md:flex'>
